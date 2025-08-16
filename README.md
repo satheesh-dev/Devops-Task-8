@@ -19,6 +19,16 @@ If Maven is installed locally:
 ```bash
  mvn clean package
  java -jar target/hello-1.0.jar
+```
+Output:
+Hello, Jenkins + Maven!
 
+## ✅ Jenkins Build Proof
+<img width="1899" height="964" alt="image" src="https://github.com/user-attachments/assets/08a3f397-64dd-4aa6-81f6-ee9154baa590" />
 
- 
+## 📌 Task Summary
+
+Java project created ✅
+Pushed to GitHub ✅
+Configured Jenkins Freestyle job ✅
+Build successful (BUILD SUCCESS) ✅
