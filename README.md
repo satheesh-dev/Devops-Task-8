@@ -25,6 +25,8 @@ Hello, Jenkins + Maven!
 
 ## ✅ Jenkins Build Proof
 <img width="1899" height="964" alt="image" src="https://github.com/user-attachments/assets/08a3f397-64dd-4aa6-81f6-ee9154baa590" />
+<img width="1918" height="960" alt="image" src="https://github.com/user-attachments/assets/194f7ec5-ba32-4aef-9689-6cecbe571a8c" />
+
 
 ## 📌 Task Summary
 
